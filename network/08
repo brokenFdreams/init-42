@@ -1,0 +1,12 @@
+Find ip:
+	 use host slash16.org or dig +short slash16.org
+
+	 ip is:
+	 	13.32.42.156
+		13.32.42.71
+		13.32.42.100
+		13.32.42.139
+
+Find provider:
+	 use whois (there is ip)
+	 and then we are find out that this is Amazon.com
