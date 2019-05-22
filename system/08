@@ -1,0 +1,2 @@
+cat ~/.ssh/id_rsa
+if there no file or directory then generate key: ssh-keygen
