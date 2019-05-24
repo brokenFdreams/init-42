@@ -1,0 +1,5 @@
+#!/bin/bash
+
+USER=$1
+prgep -u USER | while read PID; do sudo kill $PID; done
+sudo userdel -r $USER
